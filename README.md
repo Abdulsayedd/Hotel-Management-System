@@ -11,11 +11,17 @@ This project aims to convert the existing Hotel Management application from ADO.
 The ADO.NET to Entity Framework conversion process involves the following steps:
 
 1. **Database Schema Analysis:** Analyze the existing ADO.NET database schema of the original project [https://github.com/nazimamin/HotelManagement](https://github.com/nazimamin/HotelManagement) to identify the tables, relationships, and constraints.
+
 2. **Entity Framework Configuration:** Set up the Entity Framework in the project by installing the required NuGet packages and configuring the database context.
+
 3. **Data Model Creation:** Create the necessary data models (entities) to represent the tables in the database. Define the relationships between entities using Fluent API or Data Annotations.
+
 4. **Repository Pattern:** Implement the repository pattern to abstract the data access layer and centralize database operations.
+
 5. **Migrations:** Generate and apply migrations to bring the Entity Framework database schema in sync with the existing ADO.NET schema.
+
 6. **Data Access Code Refactoring:** Replace the existing ADO.NET data access code in the original project [https://github.com/nazimamin/HotelManagement](https://github.com/nazimamin/HotelManagement) with Entity Framework's methods to perform CRUD (Create, Read, Update, Delete) operations.
+
 7. **Unit Testing:** Conduct unit tests to ensure that the data access layer is functioning correctly with Entity Framework.
 
 ### Acknowledgements
