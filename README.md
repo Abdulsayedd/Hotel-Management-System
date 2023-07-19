@@ -75,7 +75,7 @@ To get started with the Hotel Management application and the conversion process,
 
 We welcome contributions to enhance the application's functionality and performance. If you wish to contribute, please follow these guidelines:
 
-1. Fork the repository [https://github.com/Sayedelmahdy/Hotel-Management](https://github.com/Sayedelmahdy/Hotel-Management) and create a new branch for your feature or bug fix.
+1. Fork the repository [https://github.com/Abdulsayedd/Hotel-Management-System](Hotel-Management-System) and create a new branch for your feature or bug fix.
 
 2. Commit your changes with descriptive commit messages.
 
@@ -85,18 +85,18 @@ We welcome contributions to enhance the application's functionality and performa
 
 ### Acknowledgements
 
-Special thanks to my friend [Mohamed Abdulsayed](https://github.com/Abdulsayedd/Abdulsayedd) for their valuable contributions and collaboration on this project. Working together made this conversion process an enjoyable experience.
+Special thanks to my friend [Sayed Ahmed](https://github.com/Sayedelmahdy) for their valuable contributions and collaboration on this project. Working together made this conversion process an enjoyable experience.
 
 
 ### Support and Contact
 
 For any issues, questions, or suggestions related to the project or the conversion process, feel free to contact the maintainers:
 
-- Sayed Elmahdy: sayed.work223@gmail.com
 - Mohamed Abdelsayed: Abdulsayedd@gmail.com
+- Sayed Elmahdy: sayed.work223@gmail.com
 
 ## Contributions
-- [Mohamed Abdelsayed](https://github.com/Abdulsayedd/Abdulsayedd)
+- [Sayed Ahmed](https://github.com/Sayedelmahdy)
 
 ---
 

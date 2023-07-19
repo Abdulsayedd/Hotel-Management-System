@@ -4747,19 +4747,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sayed Elmahdy\\.nuget\\packages\\": {}
+    "C:\\Users\\Abdulsayed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github Files\\Hotel-Management\\EF_HotelManagement\\Hotel_Manager\\Hotel_Manager.csproj",
+      "projectUniqueName": "E:\\CODES\\C# Uploaded Repo\\Hotel-Management-System\\Hotel-Management-main\\EF_HotelManagement\\Hotel_Manager\\Hotel_Manager.csproj",
       "projectName": "Hotel_Manager",
-      "projectPath": "D:\\Github Files\\Hotel-Management\\EF_HotelManagement\\Hotel_Manager\\Hotel_Manager.csproj",
-      "packagesPath": "C:\\Users\\Sayed Elmahdy\\.nuget\\packages\\",
-      "outputPath": "D:\\Github Files\\Hotel-Management\\EF_HotelManagement\\Hotel_Manager\\obj\\",
+      "projectPath": "E:\\CODES\\C# Uploaded Repo\\Hotel-Management-System\\Hotel-Management-main\\EF_HotelManagement\\Hotel_Manager\\Hotel_Manager.csproj",
+      "packagesPath": "C:\\Users\\Abdulsayed\\.nuget\\packages\\",
+      "outputPath": "E:\\CODES\\C# Uploaded Repo\\Hotel-Management-System\\Hotel-Management-main\\EF_HotelManagement\\Hotel_Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sayed Elmahdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Abdulsayed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4829,7 +4829,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
