@@ -71,17 +71,6 @@ To get started with the Hotel Management application and the conversion process,
 
 5. Run the application and test the functionalities.
 
-### Contribution Guidelines
-
-We welcome contributions to enhance the application's functionality and performance. If you wish to contribute, please follow these guidelines:
-
-1. Fork the repository [https://github.com/Abdulsayedd/Hotel-Management-System](Hotel-Management-System) and create a new branch for your feature or bug fix.
-
-2. Commit your changes with descriptive commit messages.
-
-3. Open a pull request and provide a clear explanation of your changes.
-
-4. Ensure that your code passes all tests and does not introduce any breaking changes.
 
 ### Acknowledgements
 
